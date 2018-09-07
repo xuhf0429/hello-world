@@ -1,5 +1,5 @@
 # hello-world
 
-hello all,
+Hello, everyone
 
-i love javascript rather than coffeescript
+I love computer science, and I am practical on some programming languages.
